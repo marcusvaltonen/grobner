@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grobner"
+version = "0.0.1"
+description = "Coming soon."
+readme = "README.md"
+authors = [
+  { name = "Marcus Valtonen Örnhag", email = "marcusvaltonen@gmail.com" },
+]
+requires-python = ">=3.10"
